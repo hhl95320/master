@@ -5,5 +5,6 @@ public class Main {
         System.out.println(111);
         System.out.println(33);
         System.out.println(111);
+        System.out.println(144);
     }
 }
